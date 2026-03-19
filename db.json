@@ -1,0 +1,1860 @@
+{
+   "items": [
+      {
+         "id": 1,
+         "n": "Water Bottle 1 Ltr",
+         "p": 26,
+         "categoryId": "beverages",
+         "sectionSub": "",
+         "type": "veg"
+      },
+      {
+         "id": 2,
+         "n": "Cool Drinks 200ml",
+         "p": 20,
+         "categoryId": "beverages",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 3,
+         "n": "Tomato Soup",
+         "p": 119,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 4,
+         "n": "Veg Noodles Soup",
+         "p": 119,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 5,
+         "n": "Veg Corn Soup",
+         "p": 119,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 6,
+         "n": "Veg Clear Soup",
+         "p": 119,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 7,
+         "n": "Veg Manchow Soup",
+         "p": 150,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 8,
+         "n": "Veg Hot N Sour",
+         "p": 119,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 9,
+         "n": "Lemon Coriander Soup",
+         "p": 119,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 10,
+         "n": "Talumien Soup",
+         "p": 130,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 11,
+         "n": "French Onion Soup",
+         "p": 130,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 12,
+         "n": "Cream of Mushroom",
+         "p": 130,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 13,
+         "n": "Veg Thalimon Soup",
+         "p": 130,
+         "categoryId": "soups",
+         "sectionSub": "Veg Soups",
+         "type": "veg"
+      },
+      {
+         "id": 14,
+         "n": "Chicken Corn Soup",
+         "p": 140,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 15,
+         "n": "Chicken Clear Soup",
+         "p": 140,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 16,
+         "n": "Chicken Manchow Soup",
+         "p": 140,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 17,
+         "n": "Chicken Cantonese Soup",
+         "p": 140,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 18,
+         "n": "Cream of Chicken Soup",
+         "p": 140,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 19,
+         "n": "Mutton Hot N Sour",
+         "p": 170,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 20,
+         "n": "Chicken Hot & Sour",
+         "p": 150,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 21,
+         "n": "Chicken Silver Soup",
+         "p": 150,
+         "categoryId": "soups",
+         "sectionSub": "Non-Veg Soups",
+         "type": "nonveg"
+      },
+      {
+         "id": 22,
+         "n": "Papad Fried / Roasted",
+         "p": 50,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 23,
+         "n": "Masala Papad",
+         "p": 60,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 24,
+         "n": "Finger Chips",
+         "p": 170,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 25,
+         "n": "Veg Manchurian Dry",
+         "p": 220,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 26,
+         "n": "Veg 65",
+         "p": 220,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 27,
+         "n": "Veg Chilly Dry",
+         "p": 220,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 28,
+         "n": "Veg Pakoda",
+         "p": 220,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 29,
+         "n": "Veg Bullet",
+         "p": 280,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 30,
+         "n": "Gobi Chilly",
+         "p": 220,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 31,
+         "n": "Gobi Manchurian",
+         "p": 220,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 32,
+         "n": "Gobi 65",
+         "p": 220,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 33,
+         "n": "Baby Corn Manchurian",
+         "p": 280,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 34,
+         "n": "Baby Corn Chilly",
+         "p": 280,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 35,
+         "n": "Baby Corn 65",
+         "p": 280,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 36,
+         "n": "Crispy Fried Corn",
+         "p": 210,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 37,
+         "n": "Mushroom Manchurian Dry",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 38,
+         "n": "Mushroom Chilly",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 39,
+         "n": "Mushroom 65",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 40,
+         "n": "Paneer Manchurian Dry",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 41,
+         "n": "Paneer Chilly",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 42,
+         "n": "Paneer 65",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 43,
+         "n": "Paneer Pakoda",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 44,
+         "n": "Paneer Dry Roast",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 45,
+         "n": "Veg Cheese Churmi",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 46,
+         "n": "Chakra Veg",
+         "p": 300,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 47,
+         "n": "Mushroom Salt & Pepper",
+         "p": 300,
+         "categoryId": "starters",
+         "sectionSub": "Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 48,
+         "n": "Egg Fiyang",
+         "p": 240,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 49,
+         "n": "Boiled Egg",
+         "p": 25,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 50,
+         "n": "Egg 99",
+         "p": 240,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 51,
+         "n": "Egg Chilly Dry",
+         "p": 240,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 52,
+         "n": "Egg Manchurian Dry",
+         "p": 240,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 53,
+         "n": "Egg Ginger Dry",
+         "p": 240,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 54,
+         "n": "Egg Pakoda",
+         "p": 240,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 55,
+         "n": "Egg 65",
+         "p": 240,
+         "categoryId": "starters",
+         "sectionSub": "Egg Starters",
+         "type": "egg"
+      },
+      {
+         "id": 56,
+         "n": "Chicken Manchurian Dry",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 57,
+         "n": "Chicken Chilly",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 58,
+         "n": "Chicken 65",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 59,
+         "n": "Chicken Fry Bones",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 60,
+         "n": "Chicken Fry Boneless",
+         "p": 300,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 61,
+         "n": "Chicken Roast Boneless",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 62,
+         "n": "Pepper Chicken",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 63,
+         "n": "Chicken Drum Stick",
+         "p": 300,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 64,
+         "n": "Mutton Fry Bones",
+         "p": 370,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 65,
+         "n": "Prawns Manchurian",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 66,
+         "n": "Prawns 65",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 67,
+         "n": "Fish Manchurian",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 68,
+         "n": "Fish 65",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 69,
+         "n": "Apollo Fish",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 70,
+         "n": "Chicken Majestic",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 71,
+         "n": "Sezwan Chicken Wings",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 72,
+         "n": "Hyd Chicken Dry",
+         "p": 360,
+         "categoryId": "starters",
+         "sectionSub": "Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 73,
+         "n": "Veg Cheese Roll",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 74,
+         "n": "Palak Cheese Roll",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 75,
+         "n": "Corn Cheese Nuggets",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 76,
+         "n": "Golden Fried Baby Corn",
+         "p": 300,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 77,
+         "n": "Sezwani Paneer",
+         "p": 290,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 78,
+         "n": "Paneer Majestic",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 79,
+         "n": "Paneer Sandwich",
+         "p": 330,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 80,
+         "n": "Yoga Paneer",
+         "p": 310,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 81,
+         "n": "Schezwan Paneer",
+         "p": 300,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 82,
+         "n": "Thai Pai Paneer",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Veg Starters",
+         "type": "veg"
+      },
+      {
+         "id": 83,
+         "n": "French Chicken Dry",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 84,
+         "n": "Hong Kong Chicken Dry",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 85,
+         "n": "Yoga Chicken",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 86,
+         "n": "Dragon Chicken",
+         "p": 390,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 87,
+         "n": "Chicken Honey Stick",
+         "p": 340,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 88,
+         "n": "Chicken Lollipop",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 89,
+         "n": "Thaistick Chicken",
+         "p": 360,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 90,
+         "n": "Garlic Chicken",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 91,
+         "n": "Star Chicken",
+         "p": 320,
+         "categoryId": "starters",
+         "sectionSub": "Special Non-Veg Starters",
+         "type": "nonveg"
+      },
+      {
+         "id": 92,
+         "n": "Paneer Tikka",
+         "p": 330,
+         "categoryId": "tandoori",
+         "sectionSub": "Veg Tandoori",
+         "type": "veg"
+      },
+      {
+         "id": 93,
+         "n": "Veg Hara Bhara Kabab",
+         "p": 320,
+         "categoryId": "tandoori",
+         "sectionSub": "Veg Tandoori",
+         "type": "veg"
+      },
+      {
+         "id": 94,
+         "n": "Paneer Shashlik Kabab",
+         "p": 350,
+         "categoryId": "tandoori",
+         "sectionSub": "Veg Tandoori",
+         "type": "veg"
+      },
+      {
+         "id": 95,
+         "n": "Paneer Papdi Kabab",
+         "p": 360,
+         "categoryId": "tandoori",
+         "sectionSub": "Veg Tandoori",
+         "type": "veg"
+      },
+      {
+         "id": 96,
+         "n": "Corn Tikki",
+         "p": 320,
+         "categoryId": "tandoori",
+         "sectionSub": "Veg Tandoori",
+         "type": "veg"
+      },
+      {
+         "id": 97,
+         "n": "Mixed Veg Tikki",
+         "p": 320,
+         "categoryId": "tandoori",
+         "sectionSub": "Veg Tandoori",
+         "type": "veg"
+      },
+      {
+         "id": 98,
+         "n": "Tandoori Chicken Half",
+         "p": 240,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 99,
+         "n": "Tandoori Chicken Full",
+         "p": 420,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 100,
+         "n": "Chicken Tikka",
+         "p": 380,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 101,
+         "n": "Chicken Reshmi Kabab",
+         "p": 380,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 102,
+         "n": "Chicken Malai Kabab",
+         "p": 380,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 103,
+         "n": "Mutton Sheekh Kabab",
+         "p": 410,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 104,
+         "n": "Fish Tikka",
+         "p": 400,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 105,
+         "n": "Tandoori Platter",
+         "p": 950,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 106,
+         "n": "Tandoori Prawns",
+         "p": 380,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 107,
+         "n": "Nawabi Tangidi Half",
+         "p": 280,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 108,
+         "n": "Nawabi Tangidi Full",
+         "p": 500,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 109,
+         "n": "Chicken Angara Kabab",
+         "p": 380,
+         "categoryId": "tandoori",
+         "sectionSub": "Non-Veg Tandoori",
+         "type": "nonveg"
+      },
+      {
+         "id": 110,
+         "n": "Garlic Naan",
+         "p": 50,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 111,
+         "n": "Masala Kulcha",
+         "p": 70,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 112,
+         "n": "Folder Naan",
+         "p": 60,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 113,
+         "n": "Phulka",
+         "p": 15,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 114,
+         "n": "Roti",
+         "p": 20,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 115,
+         "n": "Butter Naan",
+         "p": 40,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 116,
+         "n": "Rumali Roti",
+         "p": 40,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 117,
+         "n": "Lacha Paratha",
+         "p": 50,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 118,
+         "n": "Stuffed Paratha",
+         "p": 60,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 119,
+         "n": "Paneer Paratha",
+         "p": 70,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 120,
+         "n": "Mutton Kheema Naan",
+         "p": 180,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 121,
+         "n": "Assorted Bread Basket",
+         "p": 220,
+         "categoryId": "breads",
+         "sectionSub": null,
+         "type": "veg"
+      },
+      {
+         "id": 122,
+         "n": "Methi Dal",
+         "p": 220,
+         "categoryId": "vegcurry",
+         "sectionSub": "Dal",
+         "type": "veg"
+      },
+      {
+         "id": 123,
+         "n": "Dal Fry",
+         "p": 200,
+         "categoryId": "vegcurry",
+         "sectionSub": "Dal",
+         "type": "veg"
+      },
+      {
+         "id": 124,
+         "n": "Dal Tadka",
+         "p": 210,
+         "categoryId": "vegcurry",
+         "sectionSub": "Dal",
+         "type": "veg"
+      },
+      {
+         "id": 125,
+         "n": "Dal Palak",
+         "p": 210,
+         "categoryId": "vegcurry",
+         "sectionSub": "Dal",
+         "type": "veg"
+      },
+      {
+         "id": 126,
+         "n": "Tomato Dal",
+         "p": 210,
+         "categoryId": "vegcurry",
+         "sectionSub": "Dal",
+         "type": "veg"
+      },
+      {
+         "id": 127,
+         "n": "Plain Palak",
+         "p": 220,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 128,
+         "n": "Tomato Curry",
+         "p": 220,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 129,
+         "n": "Aloo Palak",
+         "p": 220,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 130,
+         "n": "Aloo Gobi",
+         "p": 240,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 131,
+         "n": "Veg Saahi Kurma",
+         "p": 270,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 132,
+         "n": "Veg Adraki",
+         "p": 270,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 133,
+         "n": "Veg Kofta",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 134,
+         "n": "Mushroom Masala",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 135,
+         "n": "Kadahi Mushroom",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 136,
+         "n": "Butter Mushroom",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 137,
+         "n": "Malai Kofta",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 138,
+         "n": "Paneer Kofta",
+         "p": 300,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 139,
+         "n": "Paneer Butter Masala",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 140,
+         "n": "Kadahi Paneer",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 141,
+         "n": "Palak Paneer",
+         "p": 290,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 142,
+         "n": "Navratan Kurma",
+         "p": 320,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 143,
+         "n": "Kaju Masala Curry",
+         "p": 320,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 144,
+         "n": "Mix Veg Curry",
+         "p": 270,
+         "categoryId": "vegcurry",
+         "sectionSub": "Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 145,
+         "n": "Veg Miloni",
+         "p": 280,
+         "categoryId": "vegcurry",
+         "sectionSub": "Special Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 146,
+         "n": "Veg Nizami Handi",
+         "p": 280,
+         "categoryId": "vegcurry",
+         "sectionSub": "Special Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 147,
+         "n": "Veg Telangana Curry",
+         "p": 280,
+         "categoryId": "vegcurry",
+         "sectionSub": "Special Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 148,
+         "n": "Marvadi Paneer",
+         "p": 320,
+         "categoryId": "vegcurry",
+         "sectionSub": "Special Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 149,
+         "n": "Paneer Tikka Masala",
+         "p": 350,
+         "categoryId": "vegcurry",
+         "sectionSub": "Special Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 150,
+         "n": "Athithi Special Veg",
+         "p": 310,
+         "categoryId": "vegcurry",
+         "sectionSub": "Special Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 151,
+         "n": "Rajasthani Veg Curry",
+         "p": 280,
+         "categoryId": "vegcurry",
+         "sectionSub": "Special Veg Curry",
+         "type": "veg"
+      },
+      {
+         "id": 152,
+         "n": "Egg Dil Pasand Curry",
+         "p": 240,
+         "categoryId": "nonveg",
+         "sectionSub": "Egg Curries",
+         "type": "egg"
+      },
+      {
+         "id": 153,
+         "n": "Egg Omelette",
+         "p": 110,
+         "categoryId": "nonveg",
+         "sectionSub": "Egg Curries",
+         "type": "egg"
+      },
+      {
+         "id": 154,
+         "n": "Egg Bhurji",
+         "p": 190,
+         "categoryId": "nonveg",
+         "sectionSub": "Egg Curries",
+         "type": "egg"
+      },
+      {
+         "id": 155,
+         "n": "Egg Curry",
+         "p": 240,
+         "categoryId": "nonveg",
+         "sectionSub": "Egg Curries",
+         "type": "egg"
+      },
+      {
+         "id": 156,
+         "n": "Egg Masala",
+         "p": 240,
+         "categoryId": "nonveg",
+         "sectionSub": "Egg Curries",
+         "type": "egg"
+      },
+      {
+         "id": 157,
+         "n": "Egg Nawabi",
+         "p": 240,
+         "categoryId": "nonveg",
+         "sectionSub": "Egg Curries",
+         "type": "egg"
+      },
+      {
+         "id": 158,
+         "n": "Egg Kheema Curry",
+         "p": 240,
+         "categoryId": "nonveg",
+         "sectionSub": "Egg Curries",
+         "type": "egg"
+      },
+      {
+         "id": 159,
+         "n": "Butter Chicken",
+         "p": 320,
+         "categoryId": "nonveg",
+         "sectionSub": "Chicken Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 160,
+         "n": "Chicken Adraki",
+         "p": 320,
+         "categoryId": "nonveg",
+         "sectionSub": "Chicken Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 161,
+         "n": "Chicken Kolhapuri",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Chicken Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 162,
+         "n": "Chicken Tikka Masala",
+         "p": 340,
+         "categoryId": "nonveg",
+         "sectionSub": "Chicken Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 163,
+         "n": "Chicken Moghlai",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Chicken Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 164,
+         "n": "Chicken Makhani",
+         "p": 320,
+         "categoryId": "nonveg",
+         "sectionSub": "Chicken Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 165,
+         "n": "Kadai Chicken",
+         "p": 340,
+         "categoryId": "nonveg",
+         "sectionSub": "Chicken Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 166,
+         "n": "Mutton Curry",
+         "p": 390,
+         "categoryId": "nonveg",
+         "sectionSub": "Mutton Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 167,
+         "n": "Mutton Masala",
+         "p": 390,
+         "categoryId": "nonveg",
+         "sectionSub": "Mutton Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 168,
+         "n": "Kadahi Mutton",
+         "p": 390,
+         "categoryId": "nonveg",
+         "sectionSub": "Mutton Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 169,
+         "n": "Butter Mutton",
+         "p": 390,
+         "categoryId": "nonveg",
+         "sectionSub": "Mutton Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 170,
+         "n": "Mutton Rogan Josh",
+         "p": 390,
+         "categoryId": "nonveg",
+         "sectionSub": "Mutton Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 171,
+         "n": "Punjabi Mutton",
+         "p": 390,
+         "categoryId": "nonveg",
+         "sectionSub": "Mutton Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 172,
+         "n": "Hyderabadi Mutton Kheema",
+         "p": 400,
+         "categoryId": "nonveg",
+         "sectionSub": "Mutton Curries",
+         "type": "nonveg"
+      },
+      {
+         "id": 173,
+         "n": "Fish Curry",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Fish & Prawns",
+         "type": "nonveg"
+      },
+      {
+         "id": 174,
+         "n": "Fish Masala",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Fish & Prawns",
+         "type": "nonveg"
+      },
+      {
+         "id": 175,
+         "n": "Telangana Fish",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Fish & Prawns",
+         "type": "nonveg"
+      },
+      {
+         "id": 176,
+         "n": "Punjabi Fish Curry",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Fish & Prawns",
+         "type": "nonveg"
+      },
+      {
+         "id": 177,
+         "n": "Prawns Curry",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Fish & Prawns",
+         "type": "nonveg"
+      },
+      {
+         "id": 178,
+         "n": "Kadahi Prawns",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Fish & Prawns",
+         "type": "nonveg"
+      },
+      {
+         "id": 179,
+         "n": "Butter Prawns",
+         "p": 330,
+         "categoryId": "nonveg",
+         "sectionSub": "Fish & Prawns",
+         "type": "nonveg"
+      },
+      {
+         "id": 180,
+         "n": "Half Chicken Biryani",
+         "p": 200,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 181,
+         "n": "Chicken Biryani",
+         "p": 290,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 182,
+         "n": "Mutton Biryani",
+         "p": 380,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 183,
+         "n": "Spl Chicken Biryani",
+         "p": 310,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 184,
+         "n": "Egg Biryani",
+         "p": 220,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 185,
+         "n": "Fish Biryani",
+         "p": 330,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 186,
+         "n": "Prawns Biryani",
+         "p": 340,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 187,
+         "n": "Chettinadu Chicken Biryani",
+         "p": 310,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 188,
+         "n": "Chicken Tikka Biryani",
+         "p": 340,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 189,
+         "n": "Chicken Biryani Large",
+         "p": 410,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 190,
+         "n": "Mutton Biryani Large",
+         "p": 540,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 191,
+         "n": "Chicken Biryani Jumbo",
+         "p": 1200,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 192,
+         "n": "Mutton Biryani Jumbo",
+         "p": 1540,
+         "categoryId": "biryani",
+         "sectionSub": "Non-Veg Biryani",
+         "type": "nonveg"
+      },
+      {
+         "id": 193,
+         "n": "Veg Biryani",
+         "p": 220,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 194,
+         "n": "Spl Veg Biryani",
+         "p": 230,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 195,
+         "n": "Mushroom Biryani",
+         "p": 310,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 196,
+         "n": "Paneer Biryani",
+         "p": 310,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 197,
+         "n": "Kaju Biryani",
+         "p": 320,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 198,
+         "n": "Veg Pulav",
+         "p": 300,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 199,
+         "n": "Curd Rice",
+         "p": 120,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 200,
+         "n": "Tomato Rice",
+         "p": 190,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 201,
+         "n": "Lemon Rice",
+         "p": 180,
+         "categoryId": "biryani",
+         "sectionSub": "Veg Biryani & Rice",
+         "type": "veg"
+      },
+      {
+         "id": 202,
+         "n": "Veg Soft Noodles",
+         "p": 220,
+         "categoryId": "noodles",
+         "sectionSub": "Veg Noodles",
+         "type": "veg"
+      },
+      {
+         "id": 203,
+         "n": "Veg Hakka Noodles",
+         "p": 220,
+         "categoryId": "noodles",
+         "sectionSub": "Veg Noodles",
+         "type": "veg"
+      },
+      {
+         "id": 204,
+         "n": "Veg Schezwan Noodles",
+         "p": 230,
+         "categoryId": "noodles",
+         "sectionSub": "Veg Noodles",
+         "type": "veg"
+      },
+      {
+         "id": 205,
+         "n": "Veg American Chopsey",
+         "p": 270,
+         "categoryId": "noodles",
+         "sectionSub": "Veg Noodles",
+         "type": "veg"
+      },
+      {
+         "id": 206,
+         "n": "Veg Fried Rice",
+         "p": 210,
+         "categoryId": "noodles",
+         "sectionSub": "Veg Noodles",
+         "type": "veg"
+      },
+      {
+         "id": 207,
+         "n": "Jeera Rice",
+         "p": 200,
+         "categoryId": "noodles",
+         "sectionSub": "Veg Noodles",
+         "type": "veg"
+      },
+      {
+         "id": 208,
+         "n": "Coriander Rice",
+         "p": 190,
+         "categoryId": "noodles",
+         "sectionSub": "Veg Noodles",
+         "type": "veg"
+      },
+      {
+         "id": 209,
+         "n": "Egg Soft Noodles",
+         "p": 220,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 210,
+         "n": "Chicken Hakka Noodles",
+         "p": 240,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 211,
+         "n": "Chicken Schezwan Noodles",
+         "p": 240,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 212,
+         "n": "Mix Noodles NV",
+         "p": 270,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 213,
+         "n": "Egg Fried Rice",
+         "p": 210,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 214,
+         "n": "Chicken Fried Rice",
+         "p": 240,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 215,
+         "n": "Mutton Fried Rice",
+         "p": 280,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 216,
+         "n": "Mixed Fried Rice NV",
+         "p": 290,
+         "categoryId": "noodles",
+         "sectionSub": "Non-Veg Noodles",
+         "type": "nonveg"
+      },
+      {
+         "id": 217,
+         "n": "Green Salad",
+         "p": 80,
+         "categoryId": "desserts",
+         "sectionSub": "Salad & Raitha",
+         "type": "veg"
+      },
+      {
+         "id": 218,
+         "n": "Plain Curd",
+         "p": 70,
+         "categoryId": "desserts",
+         "sectionSub": "Salad & Raitha",
+         "type": "veg"
+      },
+      {
+         "id": 219,
+         "n": "Mix Raitha",
+         "p": 80,
+         "categoryId": "desserts",
+         "sectionSub": "Salad & Raitha",
+         "type": "veg"
+      },
+      {
+         "id": 220,
+         "n": "Onion Raitha",
+         "p": 70,
+         "categoryId": "desserts",
+         "sectionSub": "Salad & Raitha",
+         "type": "veg"
+      },
+      {
+         "id": 221,
+         "n": "Vanilla Ice Cream",
+         "p": 90,
+         "categoryId": "desserts",
+         "sectionSub": "Ice Creams",
+         "type": "veg"
+      },
+      {
+         "id": 222,
+         "n": "Strawberry Ice Cream",
+         "p": 100,
+         "categoryId": "desserts",
+         "sectionSub": "Ice Creams",
+         "type": "veg"
+      },
+      {
+         "id": 223,
+         "n": "Chocolate Ice Cream",
+         "p": 120,
+         "categoryId": "desserts",
+         "sectionSub": "Ice Creams",
+         "type": "veg"
+      },
+      {
+         "id": 224,
+         "n": "Butter Scotch Ice Cream",
+         "p": 110,
+         "categoryId": "desserts",
+         "sectionSub": "Ice Creams",
+         "type": "veg"
+      },
+      {
+         "id": 225,
+         "n": "Mango Ice Cream",
+         "p": 90,
+         "categoryId": "desserts",
+         "sectionSub": "Ice Creams",
+         "type": "veg"
+      },
+      {
+         "id": 226,
+         "n": "Gulab Jamun 2 pcs",
+         "p": 70,
+         "categoryId": "desserts",
+         "sectionSub": "Desserts & Drinks",
+         "type": "veg"
+      },
+      {
+         "id": 227,
+         "n": "Gajar Ka Halwa",
+         "p": 110,
+         "categoryId": "desserts",
+         "sectionSub": "Desserts & Drinks",
+         "type": "veg"
+      },
+      {
+         "id": 228,
+         "n": "Kurbani Ka Meetha",
+         "p": 100,
+         "categoryId": "desserts",
+         "sectionSub": "Desserts & Drinks",
+         "type": "veg"
+      },
+      {
+         "id": 229,
+         "n": "Double Ka Meetha",
+         "p": 110,
+         "categoryId": "desserts",
+         "sectionSub": "Desserts & Drinks",
+         "type": "veg"
+      },
+      {
+         "id": 230,
+         "n": "Honey Moon Delight",
+         "p": 210,
+         "categoryId": "desserts",
+         "sectionSub": "Desserts & Drinks",
+         "type": "veg"
+      },
+      {
+         "id": 231,
+         "n": "Mocktail Drink",
+         "p": 140,
+         "categoryId": "desserts",
+         "sectionSub": "Desserts & Drinks",
+         "type": "veg"
+      },
+      {
+         "id": 232,
+         "n": "Milk Shake",
+         "p": 120,
+         "categoryId": "desserts",
+         "sectionSub": "Desserts & Drinks",
+         "type": "veg"
+      }
+   ]
+}
