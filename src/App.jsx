@@ -432,31 +432,68 @@ function MenuApp() {
       </main>
 
       {/* ══ FOOTER ══ */}
-      <footer style={{ background: "linear-gradient(180deg,#130801 0%,#0b0704 100%)", transform: "translateZ(0)", overflow: "hidden", position: "relative" }}>
-        <div style={{ position: "absolute", top: 0, left: "50%", transform: "translateX(-50%)", width: "60%", height: 1, background: "linear-gradient(90deg,transparent,rgba(180,83,9,.5),transparent)" }} />
-        <div style={{ maxWidth: 500, margin: "0 auto", padding: "36px 20px 44px", textAlign: "center", position: "relative" }}>
-          <div style={{ width: 64, height: 64, borderRadius: "50%", background: "#fff", display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 14px", overflow: "hidden", border: "1px solid rgba(180,83,9,.25)", boxShadow: "0 0 0 2px rgba(180,83,9,.08)" }}>
+      <footer style={{ background: "linear-gradient(180deg,#1c0800 0%,#2d1410 50%,#1c0800 100%)", transform: "translateZ(0)", overflow: "hidden", position: "relative", borderTop: "2px solid rgba(201,145,10,0.25)" }}>
+        {/* Top accent line */}
+        <div style={{ position: "absolute", top: 0, left: "50%", transform: "translateX(-50%)", width: "100%", height: 2, background: "linear-gradient(90deg,transparent,rgba(201,145,10,0.6) 25%,rgba(201,145,10,0.6) 75%,transparent)" }} />
+        
+        {/* Main footer content */}
+        <div style={{ maxWidth: 600, margin: "0 auto", padding: "48px 20px 50px", textAlign: "center", position: "relative" }}>
+          {/* Logo */}
+          <div style={{ width: 72, height: 72, borderRadius: "50%", background: "#f5e8d0", display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 18px", overflow: "hidden", border: "3px solid #c9910a", boxShadow: "0 0 0 4px rgba(201,145,10,0.15), 0 12px 40px rgba(0,0,0,0.4)" }}>
             <img src={logoImg} alt="Athithi Delight Logo" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
           </div>
-          <div style={{ fontFamily: "'Cormorant Garamond',Georgia,serif", fontSize: 28, fontWeight: 700, color: "#f5e8d0", lineHeight: 1 }}>
-            Athithi <em style={{ color: "#d97706", fontStyle: "italic" }}>Delight Hotel</em>
+
+          {/* Title */}
+          <div style={{ fontFamily: "'Cormorant Garamond',Georgia,serif", fontSize: 36, fontWeight: 700, color: "#e8b94a", lineHeight: 1.1, letterSpacing: "0.02em" }}>
+            Athithi <em style={{ color: "#c9910a", fontStyle: "italic", fontWeight: 700 }}>Delight</em>
           </div>
-          <p style={{ fontSize: 11, color: "rgba(180,83,9,.45)", letterSpacing: ".35em", textTransform: "uppercase", fontWeight: 700, marginTop: 4, marginBottom: 20 }}>A/C Multi Cuisine · Siddipet</p>
-          <div style={{ display: "flex", justifyContent: "center", gap: 10, flexWrap: "wrap", marginBottom: 16 }}>
-            {[["99489 44441", true], ["99489 44442", false]].map(([n, p]) => (
-              <a key={n} href={`tel:${n.replace(/ /g, "")}`} style={{ display: "flex", alignItems: "center", gap: 8, padding: "10px 20px", background: p ? "linear-gradient(135deg,rgba(180,83,9,.2),rgba(180,83,9,.08))" : "rgba(255,255,255,.04)", border: p ? "1px solid rgba(180,83,9,.3)" : "1px solid rgba(255,255,255,.08)", borderRadius: 12, color: p ? "#f0a832" : "#7a5535", textDecoration: "none", fontSize: 14, fontWeight: 700, fontFamily: "'DM Sans',sans-serif" }}>
-                <BsTelephone size={13} color={p ? "#d97706" : "#5a3820"} />{n}
+          <p style={{ fontSize: 12, color: "#c9910a", letterSpacing: ".25em", textTransform: "uppercase", fontWeight: 800, marginTop: 6, marginBottom: 24, opacity: 0.9 }}>A/C Multi Cuisine Restaurant</p>
+
+          {/* Divider */}
+          <div style={{ height: 1, background: "linear-gradient(90deg,transparent,rgba(201,145,10,0.3) 20%,rgba(201,145,10,0.3) 80%,transparent)", margin: "18px 0 24px" }} />
+
+          {/* Location & Hours */}
+          <div style={{ display: "flex", flexDirection: "column", gap: 10, alignItems: "center", marginBottom: 24, fontSize: 13, color: "#d4af87", fontWeight: 500 }}>
+            <div style={{ display: "flex", alignItems: "center", gap: 8, justifyContent: "center" }}>
+              <FaMapMarkerAlt size={14} color="#c9910a" />
+              <span>Siddipet</span>
+            </div>
+            <div style={{ display: "flex", alignItems: "center", gap: 8, justifyContent: "center" }}>
+              <FaClock size={14} color="#c9910a" />
+              <span>11:00 AM – 10:30 PM</span>
+            </div>
+          </div>
+
+          {/* Phone Buttons */}
+          <div style={{ display: "flex", justifyContent: "center", gap: 14, flexWrap: "wrap", marginBottom: 24 }}>
+            {[["99489 44441"], ["99489 44442"]].map(([n]) => (
+              <a key={n} href={`tel:${n.replace(/ /g, "")}`} style={{ display: "flex", alignItems: "center", gap: 10, padding: "18px 32px", background: "linear-gradient(135deg,#c9910a,#d97706)", border: "2px solid #e8b94a", borderRadius: 12, color: "#ffffff", textDecoration: "none", fontSize: 16, fontWeight: 800, fontFamily: "'DM Sans',sans-serif", transition: "all 0.3s ease", boxShadow: "0 6px 16px rgba(201,145,10,0.4)", cursor: "pointer", minHeight: "54px" }}>
+                <BsTelephone size={18} color="#fff" />
+                <span>{n}</span>
               </a>
             ))}
           </div>
-          <p style={{ color: "#5a3820", fontSize: 12, lineHeight: 1.9, marginBottom: 18 }}>~30 min prep time · Outside food not permitted · GST applicable</p>
-          <div style={{ display: "flex", justifyContent: "center", gap: 16, flexWrap: "wrap" }}>
-            <a href="?qr=1" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: 11, color: "rgba(180,83,9,.4)", textDecoration: "none", letterSpacing: ".08em", fontWeight: 600, textTransform: "uppercase" }}>
-              🖨 &nbsp;Print QR Menu Card
+
+          {/* Info Text */}
+          <p style={{ color: "#9a7a52", fontSize: 11, lineHeight: 1.8, marginBottom: 20, fontWeight: 500 }}>~30 min prep time · Outside food not permitted · GST applicable</p>
+
+          {/* Divider */}
+          <div style={{ height: 1, background: "linear-gradient(90deg,transparent,rgba(201,145,10,0.3) 20%,rgba(201,145,10,0.3) 80%,transparent)", margin: "18px 0 20px" }} />
+
+          {/* Footer Links */}
+          <div style={{ display: "flex", justifyContent: "center", gap: 20, flexWrap: "wrap", alignItems: "center" }}>
+            <a href="?qr=1" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: 11, color: "#c9910a", textDecoration: "none", letterSpacing: ".08em", fontWeight: 700, textTransform: "uppercase", transition: "color 0.3s ease" }} onMouseEnter={(e) => e.target.style.color = "#e8b94a"} onMouseLeave={(e) => e.target.style.color = "#c9910a"}>
+              🖨 Print QR Card
             </a>
-            <Link to="/admin-login" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: 11, color: "rgba(180,83,9,.4)", textDecoration: "none", letterSpacing: ".08em", fontWeight: 600, textTransform: "uppercase" }}>
-              <FaUserShield size={11} color="rgba(180,83,9,.4)" /> Admin Login
+            <span style={{ width: 1, height: 16, background: "rgba(201,145,10,0.3)" }} />
+            <Link to="/admin-login" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: 11, color: "#c9910a", textDecoration: "none", letterSpacing: ".08em", fontWeight: 700, textTransform: "uppercase", transition: "color 0.3s ease" }} onMouseEnter={(e) => e.currentTarget.style.color = "#e8b94a"} onMouseLeave={(e) => e.currentTarget.style.color = "#c9910a"}>
+              <FaUserShield size={11} /> Admin
             </Link>
+          </div>
+
+          {/* Bottom accent */}
+          <div style={{ marginTop: 24, fontSize: 10, color: "#5a3820", letterSpacing: "0.15em" }}>
+            © 2026 Athithi Delight · Crafted with passion
           </div>
         </div>
       </footer>
